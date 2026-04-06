@@ -5,7 +5,7 @@ April 5, 2026
 ## Course:
 ITT103
 ## GitHub Public URL to Code:
-https://github.com/20251993/POS-SYSTEM-BEST-BUY-RETAIL-STORE/blob/main/Downer.Shanese-POS-ITT103-SP2026.py%20.py
+[https://github.com/20251993/POS-SYSTEM-BEST-BUY-RETAIL-STORE/blob/main/Downer.Shanese-POS-ITT103-SP2026.py%20.py](https://github.com/20251993/POS-SYSTEM-BEST-BUY-RETAIL-STORE/blob/main/AsyncAvengers-POS-ITT103-SP2026.py)
 
 ## The Purpose of the Program
 This program simulates a Point of Sale (POS) system for a retail store. It allows cashiers to add items to a cart, remove items, view purchases, process payments, and generate receipts for customers.
